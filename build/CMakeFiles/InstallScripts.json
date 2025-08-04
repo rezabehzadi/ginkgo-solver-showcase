@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/mnt/c/ginkgo/ginkgo-solver-showcase/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

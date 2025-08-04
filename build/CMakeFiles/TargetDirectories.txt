@@ -1,3 +1,0 @@
-/mnt/c/ginkgo/ginkgo-solver-showcase/build/CMakeFiles/02_dense_random_solver.dir
-/mnt/c/ginkgo/ginkgo-solver-showcase/build/CMakeFiles/edit_cache.dir
-/mnt/c/ginkgo/ginkgo-solver-showcase/build/CMakeFiles/rebuild_cache.dir
